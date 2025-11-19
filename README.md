@@ -33,7 +33,7 @@ Green → Fully sorted
 
 (Add your screenshots here)
 
-![Screenshot 1](beforesorting.png)
+![Screenshot 1](beforesort.png)
 ![Screenshot 2](whilesorting.png)
 ![Screenshot 3](aftersorting.png)
 
